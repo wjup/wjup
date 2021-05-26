@@ -17,8 +17,4 @@
 -->
 
 - 🔭 I’m a developer
-- 👯 
-- 🌱 
-- 💬 
-
 - 📫 How to reach me:  [http://blog.wjup.top](http://blog.wjup.top)
