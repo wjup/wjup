@@ -1,18 +1,24 @@
-### Hi there 👋
+# 👨‍💻 wjup
 
-<img src="https://github.com/YouEclipse/YouEclipse/blob/master/mario.gif" width="100">
+ [![Github Badge](https://img.shields.io/github/followers/wjup?style=social)](https://github.com/wjup)
+[![Github Badge](https://img.shields.io/github/stars/wjup?style=social)](https://github.com/wjup)
+<a href="https://github.com/wjup/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/wjup/github-readme-stats?color=0088ff" />
+</a>
+<a href="https://github.com/wjup/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/wjup/github-readme-stats?color=0088ff" />
+</a>
+![](https://komarev.com/ghpvc/?username=wjup&color=brightgreen&style=flat)
+
+[![LiTang0908's github stats](https://github-readme-stats.vercel.app/api?username=wjup&count_private=true&hide_border=true&hide_title=true&include_all_commits=true&theme=dracula)](https://github.com/wjup/github-readme-stats)
 
 <!--
-**wjup/wjup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjup)](https://github.com/wjup/github-readme-stats)
 -->
+
+- 🔭 I’m a developer
+- 👯 
+- 🌱 
+- 💬 
+
+- 📫 How to reach me:  [http://blog.wjup.top](http://blog.wjup.top)
